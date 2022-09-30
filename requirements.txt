@@ -1,0 +1,11 @@
+asgiref
+backports.zoneinfo
+black
+click
+Django
+mypy-extensions
+pathspec
+platformdirs
+sqlparse
+tomli
+typing-extensions
